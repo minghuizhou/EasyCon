@@ -1,2 +1,2 @@
 # EasyCon
-EasyCon: Make Contribution Easier!
+EasyCon: Make Contribution Easier!!
